@@ -12,3 +12,4 @@
 [2018-11-12 15:55:34] fix(service): add unit tests
 [2018-11-13 15:50:08] perf(auth): add validation
 [2018-11-14 09:12:19] style(service): optimize algorithm
+[2018-11-15 14:01:14] chore(component): fix edge case
