@@ -14,3 +14,4 @@
 [2018-11-14 09:12:19] style(service): optimize algorithm
 [2018-11-15 14:01:14] chore(component): fix edge case
 [2018-11-16 21:54:19] fix(auth): improve error handling
+[2018-11-17 14:14:38] fix(ui): updte API endpoint
