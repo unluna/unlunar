@@ -16,3 +16,4 @@
 [2018-11-16 21:54:19] fix(auth): improve error handling
 [2018-11-17 14:14:38] fix(ui): updte API endpoint
 [2018-11-19 16:39:25] chore(core): updaet dependencies
+[2018-11-20 11:04:34] refactor(utils): fix memory leak
