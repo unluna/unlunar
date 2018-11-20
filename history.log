@@ -17,3 +17,4 @@
 [2018-11-17 14:14:38] fix(ui): updte API endpoint
 [2018-11-19 16:39:25] chore(core): updaet dependencies
 [2018-11-20 11:04:34] refactor(utils): fix memory leak
+[2018-11-20 20:59:38] chore(service): fix edge case
