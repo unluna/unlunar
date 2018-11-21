@@ -19,3 +19,4 @@
 [2018-11-20 11:04:34] refactor(utils): fix memory leak
 [2018-11-20 20:59:38] chore(service): fix edge case
 [2018-11-21 17:48:23] fix(component): improve performance
+[2018-11-21 14:31:50] fix(core): optimize algorithm
