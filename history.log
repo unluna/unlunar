@@ -22,3 +22,4 @@
 [2018-11-21 14:31:50] fix(core): optimize algorithm
 [2018-11-22 11:42:26] chore(service): fix security issue
 [2018-11-22 10:46:02] docs(component): fix security issue
+[2018-11-22 22:41:15] chore(component): add unit tests
