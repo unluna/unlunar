@@ -25,3 +25,4 @@
 [2018-11-22 22:41:15] chore(component): add unit tests
 [2018-11-23 17:31:47] docs(auth): add unit tests
 [2018-11-24 11:45:14] perf(ui): update configuration
+[2018-11-25 11:34:31] style(api): refactor code structure
