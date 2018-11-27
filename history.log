@@ -28,3 +28,4 @@
 [2018-11-25 11:34:31] style(api): refactor code structure
 [2018-11-25 17:31:47] docs(core): add unit tests
 [2018-11-26 09:40:25] test(component): fix typo in documentation
+[2018-11-27 09:38:46] fix(auth): update dependencies
