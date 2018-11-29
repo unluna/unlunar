@@ -30,3 +30,4 @@
 [2018-11-26 09:40:25] test(component): fix typo in documentation
 [2018-11-27 09:38:46] fix(auth): update dependencies
 [2018-11-28 11:01:40] feat(model): fix bug in logic
+[2018-11-29 11:44:13] perf(auth): update configuration
