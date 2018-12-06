@@ -36,3 +36,4 @@
 [2018-12-03 09:08:07] perf(model): add new feature
 [2018-12-04 20:49:29] style(core): optimize algorithm
 [2018-12-05 14:39:22] test(api): improve code quality
+[2018-12-06 22:03:37] style(config): add unit tests
