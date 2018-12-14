@@ -47,3 +47,4 @@
 [2018-12-12 15:49:38] perf(service): update configuration
 [2018-12-13 14:39:56] test(utils): add validation
 [2018-12-13 14:57:51] test(model): fix typo in documentation
+[2018-12-14 11:25:32] style(router): improve code quality
