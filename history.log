@@ -49,3 +49,4 @@
 [2018-12-13 14:57:51] test(model): fix typo in documentation
 [2018-12-14 11:25:32] style(router): improve code quality
 [2018-12-14 21:25:47] docs(component): fix bug in logic
+[2018-12-14 20:15:31] perf(ui): fix edge case
