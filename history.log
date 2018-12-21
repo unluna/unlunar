@@ -56,3 +56,4 @@
 [2018-12-18 17:05:29] fix(core): update dependencies
 [2018-12-19 17:59:49] test(auth): add unit tests
 [2018-12-20 19:17:39] test(component): fix memory leak
+[2018-12-21 22:18:31] perf(service): add new fetaure
