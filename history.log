@@ -67,3 +67,4 @@
 [2018-12-29 14:00:35] chore(ui): optimize algorithm
 [2018-12-30 11:42:12] refactor(model): fix bug in logic
 [2018-12-30 16:31:06] test(router): update implementation
+[2018-12-31 14:54:08] test(utils): fix typo in documentation
