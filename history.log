@@ -71,3 +71,4 @@
 [2019-01-01 14:30:14] feat(router): remove deprecated code
 [2019-01-02 20:29:18] docs(config): fix edge case
 [2019-01-02 16:48:34] chore(utils): fix edge case
+[2019-01-02 11:01:30] style(auth): add comments
