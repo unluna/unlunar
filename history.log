@@ -72,3 +72,4 @@
 [2019-01-02 20:29:18] docs(config): fix edge case
 [2019-01-02 16:48:34] chore(utils): fix edge case
 [2019-01-02 11:01:30] style(auth): add comments
+[2019-01-04 20:57:12] style(service): fix memory leak
