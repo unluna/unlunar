@@ -80,3 +80,4 @@
 [2019-01-07 21:05:19] docs(auth): fix typo in documentation
 [2019-01-07 09:05:58] test(api): fix security issue
 [2019-01-08 21:12:52] refactor(ui): upadte configuration
+[2019-01-09 17:03:34] fix(utils): fix bug in logic
