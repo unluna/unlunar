@@ -81,3 +81,4 @@
 [2019-01-07 09:05:58] test(api): fix security issue
 [2019-01-08 21:12:52] refactor(ui): upadte configuration
 [2019-01-09 17:03:34] fix(utils): fix bug in logic
+[2019-01-10 10:52:49] test(service): improve error handling
