@@ -83,3 +83,4 @@
 [2019-01-09 17:03:34] fix(utils): fix bug in logic
 [2019-01-10 10:52:49] test(service): improve error handling
 [2019-01-11 09:59:13] refactor(router): add new feature
+[2019-01-11 19:42:48] docs(config): fix edge case
