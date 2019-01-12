@@ -84,3 +84,4 @@
 [2019-01-10 10:52:49] test(service): improve error handling
 [2019-01-11 09:59:13] refactor(router): add new feature
 [2019-01-11 19:42:48] docs(config): fix edge case
+[2019-01-12 16:26:42] feat(api): update dependencies
