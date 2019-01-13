@@ -85,3 +85,4 @@
 [2019-01-11 09:59:13] refactor(router): add new feature
 [2019-01-11 19:42:48] docs(config): fix edge case
 [2019-01-12 16:26:42] feat(api): update dependencies
+[2019-01-13 11:24:10] fix(auth): add validation
