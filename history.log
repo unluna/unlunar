@@ -87,3 +87,4 @@
 [2019-01-12 16:26:42] feat(api): update dependencies
 [2019-01-13 11:24:10] fix(auth): add validation
 [2019-01-14 15:37:31] refactor(service): update configuration
+[2019-01-15 15:17:24] refactor(auth): optimize algorithm
