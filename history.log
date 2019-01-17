@@ -89,3 +89,4 @@
 [2019-01-14 15:37:31] refactor(service): update configuration
 [2019-01-15 15:17:24] refactor(auth): optimize algorithm
 [2019-01-16 16:44:30] docs(utils): fix memory leak
+[2019-01-17 17:24:12] test(router): improve code quality
