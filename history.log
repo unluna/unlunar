@@ -93,3 +93,4 @@
 [2019-01-18 15:04:45] docs(utils): add validation
 [2019-01-20 17:37:38] refactor(component): improve performance
 [2019-01-21 11:18:03] chore(component): fix bug in logic
+[2019-01-22 15:27:15] test(component): improve error handling
