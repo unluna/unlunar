@@ -94,3 +94,4 @@
 [2019-01-20 17:37:38] refactor(component): improve performance
 [2019-01-21 11:18:03] chore(component): fix bug in logic
 [2019-01-22 15:27:15] test(component): improve error handling
+[2019-01-23 10:41:39] refactor(auth): update configuration
