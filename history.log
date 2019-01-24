@@ -97,3 +97,4 @@
 [2019-01-23 10:41:39] refactor(auth): update configuration
 [2019-01-24 21:09:58] style(service): fix edge case
 [2019-01-24 14:21:20] feat(auth): fix bug in logic
+[2019-01-24 09:51:13] fix(router): improve performance
