@@ -100,3 +100,4 @@
 [2019-01-24 09:51:13] fix(router): improve performance
 [2019-01-24 20:59:41] test(router): fix security issue
 [2019-01-25 20:34:21] style(auth): add unit tests
+[2019-01-26 17:30:16] test(utils): update styles
