@@ -105,3 +105,4 @@
 [2019-01-28 11:08:42] style(api): fix edge case
 [2019-01-29 16:27:47] docs(model): update configuration
 [2019-01-29 09:44:06] docs(model): improve performance
+[2019-01-30 20:27:59] refactor(service): add new feature
