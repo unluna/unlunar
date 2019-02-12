@@ -109,3 +109,4 @@
 [2019-02-11 21:13:58] test(api): optimize algorithm
 [2019-02-11 19:04:52] test(utils): add comments
 [2019-02-12 10:54:54] fix(ui): optimize algorithm
+[2019-02-12 22:58:29] fix(config): add validation
