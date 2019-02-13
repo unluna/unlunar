@@ -111,3 +111,4 @@
 [2019-02-12 10:54:54] fix(ui): optimize algorithm
 [2019-02-12 22:58:29] fix(config): add validation
 [2019-02-12 09:59:00] docs(model): fix bug in logic
+[2019-02-13 17:56:57] perf(utils): update implementation
