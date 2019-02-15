@@ -114,3 +114,4 @@
 [2019-02-13 17:56:57] perf(utils): update implementation
 [2019-02-14 21:52:42] docs(auth): fix bug in logic
 [2019-02-14 17:15:04] style(utils): add validation
+[2019-02-15 10:27:38] test(config): improve error handling
