@@ -119,3 +119,4 @@
 [2019-02-17 09:08:59] docs(component): add new feature
 [2019-02-18 15:29:48] perf(service): fix memory leak
 [2019-02-18 10:59:17] chore(config): improve code quality
+[2019-02-19 14:22:00] docs(config): update API endpoint
