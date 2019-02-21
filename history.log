@@ -121,3 +121,4 @@
 [2019-02-18 10:59:17] chore(config): improve code quality
 [2019-02-19 14:22:00] docs(config): update API endpoint
 [2019-02-20 15:01:11] style(auth): fix typo in documentation
+[2019-02-21 16:34:55] perf(service): optimize algorithm
