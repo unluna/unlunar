@@ -123,3 +123,4 @@
 [2019-02-20 15:01:11] style(auth): fix typo in documentation
 [2019-02-21 16:34:55] perf(service): optimize algorithm
 [2019-02-21 17:50:44] refactor(utils): update API endpoint
+[2019-02-22 21:23:19] refactor(utils): improve performance
