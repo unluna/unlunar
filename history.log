@@ -130,3 +130,4 @@
 [2019-02-23 15:43:34] fix(router): add new feature
 [2019-02-23 09:57:51] style(service): update implementation
 [2019-02-25 10:52:03] fix(auth): update configuration
+[2019-02-26 15:57:07] chore(ui): fix security issue
