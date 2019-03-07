@@ -140,3 +140,4 @@
 [2019-03-06 09:10:02] perf(auth): update styles
 [2019-03-06 22:05:50] fix(service): improve code quality
 [2019-03-06 21:43:12] chore(router): add new feature
+[2019-03-07 22:31:22] fix(ui): fix edge case
