@@ -142,3 +142,4 @@
 [2019-03-06 21:43:12] chore(router): add new feature
 [2019-03-07 22:31:22] fix(ui): fix edge case
 [2019-03-08 17:24:08] style(core): fix security issue
+[2019-03-10 22:30:56] test(utils): add validation
