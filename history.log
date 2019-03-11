@@ -143,3 +143,4 @@
 [2019-03-07 22:31:22] fix(ui): fix edge case
 [2019-03-08 17:24:08] style(core): fix security issue
 [2019-03-10 22:30:56] test(utils): add validation
+[2019-03-11 15:05:27] chore(model): update styles
