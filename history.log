@@ -144,3 +144,4 @@
 [2019-03-08 17:24:08] style(core): fix security issue
 [2019-03-10 22:30:56] test(utils): add validation
 [2019-03-11 15:05:27] chore(model): update styles
+[2019-03-11 14:51:03] chore(service): fix typo in documentation
