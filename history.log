@@ -147,3 +147,4 @@
 [2019-03-11 14:51:03] chore(service): fix typo in documentation
 [2019-03-12 15:55:57] docs(ui): add comments
 [2019-03-13 22:32:25] refactor(router): fix security issue
+[2019-03-14 17:41:07] fix(utils): improve performance
