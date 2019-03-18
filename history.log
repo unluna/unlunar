@@ -150,3 +150,4 @@
 [2019-03-14 17:41:07] fix(utils): improve performance
 [2019-03-15 17:03:40] perf(auth): fix security issue
 [2019-03-17 15:00:38] perf(auth): update implementation
+[2019-03-18 16:42:49] chore(api): improve performance
