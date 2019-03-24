@@ -155,3 +155,4 @@
 [2019-03-20 16:44:40] fix(router): improve error handling
 [2019-03-21 09:43:33] chore(api): add validation
 [2019-03-22 21:57:15] fix(auth): improve code quality
+[2019-03-24 09:11:23] docs(router): refactor code structure
