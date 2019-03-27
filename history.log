@@ -158,3 +158,4 @@
 [2019-03-24 09:11:23] docs(router): refactor code structure
 [2019-03-25 11:23:33] fix(config): fix edge case
 [2019-03-26 22:18:47] style(service): add unit tests
+[2019-03-27 21:35:40] test(utils): update dependencies
