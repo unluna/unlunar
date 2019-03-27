@@ -159,3 +159,4 @@
 [2019-03-25 11:23:33] fix(config): fix edge case
 [2019-03-26 22:18:47] style(service): add unit tests
 [2019-03-27 21:35:40] test(utils): update dependencies
+[2019-03-27 14:39:01] fix(api): fix edge case
