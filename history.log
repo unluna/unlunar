@@ -161,3 +161,4 @@
 [2019-03-27 21:35:40] test(utils): update dependencies
 [2019-03-27 14:39:01] fix(api): fix edge case
 [2019-03-28 11:29:43] fix(model): fix security issue
+[2019-03-29 22:50:50] feat(component): fix security issue
