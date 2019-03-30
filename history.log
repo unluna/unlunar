@@ -166,3 +166,4 @@
 [2019-03-29 17:29:08] fix(service): update styles
 [2019-03-30 20:11:09] test(component): add validation
 [2019-03-30 14:50:53] feat(api): improve performance
+[2019-03-30 15:58:12] perf(auth): add comments
