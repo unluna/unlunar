@@ -164,3 +164,4 @@
 [2019-03-29 22:50:50] feat(component): fix security issue
 [2019-03-29 20:15:45] refactor(utils): improve error handling
 [2019-03-29 17:29:08] fix(service): update styles
+[2019-03-30 20:11:09] test(component): add validation
