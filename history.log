@@ -170,3 +170,4 @@
 [2019-03-31 14:31:40] feat(router): refactor code structure
 [2019-04-01 17:30:19] test(service): remove deprecated code
 [2019-04-02 22:58:58] feat(api): add unit tests
+[2019-04-03 21:02:46] style(auth): update implementation
