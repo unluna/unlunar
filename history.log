@@ -171,3 +171,4 @@
 [2019-04-01 17:30:19] test(service): remove deprecated code
 [2019-04-02 22:58:58] feat(api): add unit tests
 [2019-04-03 21:02:46] style(auth): update implementation
+[2019-04-04 20:08:51] test(api): add comments
