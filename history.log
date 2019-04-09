@@ -178,3 +178,4 @@
 [2019-04-06 22:38:59] test(api): update configuration
 [2019-04-07 09:03:31] feat(auth): fix security issue
 [2019-04-08 17:16:32] style(core): fix typo in documentation
+[2019-04-09 19:31:48] refactor(service): optimize algorithm
