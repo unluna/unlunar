@@ -181,3 +181,4 @@
 [2019-04-09 19:31:48] refactor(service): optimize algorithm
 [2019-04-10 19:41:30] refactor(auth): fix memory leak
 [2019-04-11 21:45:09] docs(router): fix memory leak
+[2019-04-12 19:06:03] test(api): fix edge case
