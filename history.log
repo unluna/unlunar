@@ -190,3 +190,4 @@
 [2019-04-16 09:25:10] docs(component): fix typo in documentation
 [2019-04-17 14:19:56] perf(ui): fix bug in logic
 [2019-04-17 22:32:21] perf(component): add new feature
+[2019-04-17 15:44:21] refactor(config): fix memory leak
