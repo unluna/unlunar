@@ -194,3 +194,4 @@
 [2019-04-18 15:01:15] test(component): fix bug in logic
 [2019-04-19 10:55:13] chore(component): fix bug in logic
 [2019-04-19 10:26:21] docs(router): update configuration
+[2019-04-20 11:18:05] fix(core): fix edge case
