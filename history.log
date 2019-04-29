@@ -203,3 +203,4 @@
 [2019-04-27 15:41:25] refactor(ui): fix security issue
 [2019-04-27 20:45:38] refactor(router): remove deprecated code
 [2019-04-28 17:02:00] fix(core): add new feature
+[2019-04-29 17:03:20] fix(api): add validation
