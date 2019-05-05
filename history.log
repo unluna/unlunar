@@ -205,3 +205,4 @@
 [2019-04-28 17:02:00] fix(core): add new feature
 [2019-04-29 17:03:20] fix(api): add validation
 [2019-05-04 15:28:39] style(service): update styles
+[2019-05-05 16:37:55] test(model): refactor code structure
