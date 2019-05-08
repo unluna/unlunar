@@ -208,3 +208,4 @@
 [2019-05-05 16:37:55] test(model): refactor code structure
 [2019-05-06 19:33:49] chore(service): add unit tests
 [2019-05-07 15:35:20] test(utils): improve code quality
+[2019-05-08 21:54:17] chore(router): fix memory leak
