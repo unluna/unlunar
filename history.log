@@ -210,3 +210,4 @@
 [2019-05-07 15:35:20] test(utils): improve code quality
 [2019-05-08 21:54:17] chore(router): fix memory leak
 [2019-05-08 14:33:23] refactor(utils): fix edge case
+[2019-05-09 15:09:07] docs(auth): add comments
