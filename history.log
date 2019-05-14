@@ -215,3 +215,4 @@
 [2019-05-11 15:59:48] docs(core): improve performance
 [2019-05-12 14:25:46] perf(core): optimize algorithm
 [2019-05-13 10:40:25] style(service): fix typo in documentation
+[2019-05-14 19:52:07] perf(auth): fix edge case
