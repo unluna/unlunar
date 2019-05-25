@@ -226,3 +226,4 @@
 [2019-05-23 17:51:28] perf(component): add validation
 [2019-05-23 17:58:24] docs(service): fix memory leak
 [2019-05-24 21:11:07] style(model): add validation
+[2019-05-25 21:23:10] test(core): update styles
