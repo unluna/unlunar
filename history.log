@@ -228,3 +228,4 @@
 [2019-05-24 21:11:07] style(model): add validation
 [2019-05-25 21:23:10] test(core): update styles
 [2019-05-26 15:23:28] docs(component): optimize algorithm
+[2019-05-27 14:50:32] docs(config): improve performance
