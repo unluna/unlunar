@@ -231,3 +231,4 @@
 [2019-05-27 14:50:32] docs(config): improve performance
 [2019-05-28 14:37:08] perf(api): improve error handling
 [2019-05-29 21:30:31] chore(utils): improve performance
+[2019-05-29 16:08:56] style(router): refactor code structure
