@@ -233,3 +233,4 @@
 [2019-05-29 21:30:31] chore(utils): improve performance
 [2019-05-29 16:08:56] style(router): refactor code structure
 [2019-05-29 15:13:45] refcator(ui): fix memory leak
+[2019-05-30 10:29:43] feat(api): fix typo in documentation
