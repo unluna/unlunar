@@ -237,3 +237,4 @@
 [2019-05-31 09:18:49] style(model): update dependencies
 [2019-06-01 15:58:15] refactor(api): fix memory leak
 [2019-06-02 09:32:45] perf(component): update styles
+[2019-06-03 19:47:32] docs(auth): improve error handling
