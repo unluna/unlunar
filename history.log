@@ -238,3 +238,4 @@
 [2019-06-01 15:58:15] refactor(api): fix memory leak
 [2019-06-02 09:32:45] perf(component): update styles
 [2019-06-03 19:47:32] docs(auth): improve error handling
+[2019-06-05 10:40:02] refactor(config): add new feature
