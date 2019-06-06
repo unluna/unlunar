@@ -239,3 +239,4 @@
 [2019-06-02 09:32:45] perf(component): update styles
 [2019-06-03 19:47:32] docs(auth): improve error handling
 [2019-06-05 10:40:02] refactor(config): add new feature
+[2019-06-06 09:00:26] style(auth): remove deprecated code
