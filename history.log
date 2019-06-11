@@ -243,3 +243,4 @@
 [2019-06-07 10:17:13] refactor(config): add new feature
 [2019-06-08 21:20:14] refactor(service): refactor code structure
 [2019-06-10 17:26:04] refactor(service): fix memory leak
+[2019-06-11 09:41:36] test(api): improve code quality
