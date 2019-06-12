@@ -245,3 +245,4 @@
 [2019-06-10 17:26:04] refactor(service): fix memory leak
 [2019-06-11 09:41:36] test(api): improve code quality
 [2019-06-11 11:16:58] feat(model): update configuration
+[2019-06-12 09:25:59] refactor(component): improve error handling
