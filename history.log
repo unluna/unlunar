@@ -253,3 +253,4 @@
 [2019-06-18 17:45:11] fix(config): improve performance
 [2019-06-21 16:48:22] refactor(utils): add new feature
 [2019-06-22 16:52:03] docs(service): improve performance
+[2019-06-24 20:52:54] test(auth): update API endpoint
