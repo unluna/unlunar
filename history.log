@@ -256,3 +256,4 @@
 [2019-06-24 20:52:54] test(auth): update API endpoint
 [2019-06-25 11:34:17] fix(auth): update dependencies
 [2019-06-26 19:57:22] test(api): fix security issue
+[2019-06-26 15:56:10] docs(router): add new feature
