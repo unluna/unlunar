@@ -257,3 +257,4 @@
 [2019-06-25 11:34:17] fix(auth): update dependencies
 [2019-06-26 19:57:22] test(api): fix security issue
 [2019-06-26 15:56:10] docs(router): add new feature
+[2019-06-27 22:21:23] feat(component): fix memory leak
