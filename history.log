@@ -267,3 +267,4 @@
 [2019-07-02 22:13:57] fix(service): refactor code structure
 [2019-07-02 22:52:54] test(api): fix edge case
 [2019-07-04 17:11:24] refactor(api): update dependencies
+[2019-07-05 22:53:34] test(router): update dependencies
