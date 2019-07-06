@@ -269,3 +269,4 @@
 [2019-07-04 17:11:24] refactor(api): update dependencies
 [2019-07-05 22:53:34] test(router): update dependencies
 [2019-07-05 17:57:11] chore(core): update implementation
+[2019-07-06 14:10:19] fix(config): fix memory leak
