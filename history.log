@@ -270,3 +270,4 @@
 [2019-07-05 22:53:34] test(router): update dependencies
 [2019-07-05 17:57:11] chore(core): update implementation
 [2019-07-06 14:10:19] fix(config): fix memory leak
+[2019-07-07 16:23:04] docs(model): improve error handling
