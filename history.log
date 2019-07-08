@@ -273,3 +273,4 @@
 [2019-07-07 16:23:04] docs(model): improve error handling
 [2019-07-08 20:38:01] feat(auth): add unit tests
 [2019-07-08 16:34:59] perf(core): fix memory leak
+[2019-07-08 14:14:00] fix(component): fix memory leak
