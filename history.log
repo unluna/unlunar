@@ -276,3 +276,4 @@
 [2019-07-08 14:14:00] fix(component): fix memory leak
 [2019-07-08 19:07:41] style(core): fix edge case
 [2019-07-10 09:30:38] perf(auth): add new feature
+[2019-07-11 19:52:15] perf(model): fix typo in documentation
