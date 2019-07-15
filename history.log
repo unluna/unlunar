@@ -279,3 +279,4 @@
 [2019-07-11 19:52:15] perf(model): fix typo in documentation
 [2019-07-12 21:29:09] chore(component): add new feature
 [2019-07-13 19:44:47] fix(component): fix bug in logic
+[2019-07-15 16:37:32] perf(router): improve error handling
