@@ -286,3 +286,4 @@
 [2019-07-17 17:31:26] feat(ui): optimize algorithm
 [2019-07-18 09:22:21] perf(utils): update configuration
 [2019-07-19 16:30:47] docs(model): improve error handling
+[2019-07-20 15:07:35] docs(core): update API endpoint
