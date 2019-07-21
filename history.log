@@ -289,3 +289,4 @@
 [2019-07-20 15:07:35] docs(core): update API endpoint
 [2019-07-20 17:37:41] docs(config): add new feature
 [2019-07-20 14:27:50] style(api): optimize algorithm
+[2019-07-21 17:35:54] style(model): improve performance
