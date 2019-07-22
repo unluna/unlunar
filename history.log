@@ -291,3 +291,4 @@
 [2019-07-20 14:27:50] style(api): optimize algorithm
 [2019-07-21 17:35:54] style(model): improve performance
 [2019-07-21 09:39:16] chore(core): refactor code structure
+[2019-07-22 20:05:20] fix(router): update API endpoint
