@@ -292,3 +292,4 @@
 [2019-07-21 17:35:54] style(model): improve performance
 [2019-07-21 09:39:16] chore(core): refactor code structure
 [2019-07-22 20:05:20] fix(router): update API endpoint
+[2019-07-22 14:08:56] perf(component): fix typo in documentation
