@@ -295,3 +295,4 @@
 [2019-07-22 14:08:56] perf(component): fix typo in documentation
 [2019-07-22 21:38:58] chore(model): fix memory leak
 [2019-07-24 19:29:31] fix(api): refactor code structure
+[2019-07-25 17:19:41] chore(core): add comments
