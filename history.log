@@ -299,3 +299,4 @@
 [2019-07-25 15:04:50] test(core): update API endpoint
 [2019-07-25 14:58:56] feat(auth): upadte implementation
 [2019-07-26 09:59:25] feat(model): update API endpoint
+[2019-07-27 16:11:22] fix(ui): fix edge case
