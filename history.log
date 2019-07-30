@@ -301,3 +301,4 @@
 [2019-07-26 09:59:25] feat(model): update API endpoint
 [2019-07-27 16:11:22] fix(ui): fix edge case
 [2019-07-29 19:52:15] chore(component): optimize algorithm
+[2019-07-30 17:29:26] refactor(component): refactor code structure
