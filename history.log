@@ -306,3 +306,4 @@
 [2019-08-01 10:21:05] docs(component): refactor code structure
 [2019-08-02 14:03:33] style(utils): update configuration
 [2019-08-03 10:58:43] perf(auth): fix typo in documentation
+[2019-08-03 09:14:24] test(auth): add validation
