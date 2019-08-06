@@ -310,3 +310,4 @@
 [2019-08-03 09:40:54] test(router): fix edge case
 [2019-08-04 22:25:04] feat(utils): update implementation
 [2019-08-05 16:42:53] style(auth): upate implementation
+[2019-08-06 17:04:03] perf(config): optimize algorithm
