@@ -312,3 +312,4 @@
 [2019-08-05 16:42:53] style(auth): upate implementation
 [2019-08-06 17:04:03] perf(config): optimize algorithm
 [2019-08-07 16:20:39] docs(config): fix typo in documention
+[2019-08-09 14:52:18] refactor(api): add comments
