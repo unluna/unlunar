@@ -324,3 +324,4 @@
 [2019-08-15 22:22:57] fix(core): fix bug in logic
 [2019-08-16 16:58:59] test(ui): update configuration
 [2019-08-18 14:41:27] docs(ui): update implementation
+[2019-08-19 09:34:21] chore(component): fix bug in logic
