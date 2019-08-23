@@ -329,3 +329,4 @@
 [2019-08-21 14:36:19] style(router): optimize algorithm
 [2019-08-22 17:23:59] chore(utils): improve performance
 [2019-08-22 10:07:19] chore(config): fix security issue
+[2019-08-23 09:28:50] fix(ui): update implementation
