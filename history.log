@@ -338,3 +338,4 @@
 [2019-08-26 10:15:51] test(config): add new feature
 [2019-08-27 20:27:37] chore(auth): fix edge case
 [2019-08-28 22:03:12] fix(router): update dependencies
+[2019-08-29 16:23:26] test(model): fix typo in documentation
