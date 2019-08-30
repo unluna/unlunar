@@ -341,3 +341,4 @@
 [2019-08-29 16:23:26] test(model): fix typo in documentation
 [2019-08-29 19:56:01] docs(config): fix typo in documentation
 [2019-08-29 14:06:32] fix(component): add new fetaure
+[2019-08-30 09:10:23] test(router): remove deprecated code
