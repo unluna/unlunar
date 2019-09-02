@@ -346,3 +346,4 @@
 [2019-08-31 09:06:10] docs(router): update styles
 [2019-09-01 21:24:21] perf(component): remove deprecated code
 [2019-09-01 16:50:15] refactor(core): improve performance
+[2019-09-02 09:42:56] docs(router): fix edge case
