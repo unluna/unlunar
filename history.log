@@ -351,3 +351,4 @@
 [2019-09-03 21:43:55] docs(config): add validation
 [2019-09-04 16:18:03] docs(api): add comments
 [2019-09-04 09:17:47] chore(ui): fix typo in documentation
+[2019-09-04 16:22:58] perf(config): fix typo in documentation
