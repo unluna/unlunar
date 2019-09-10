@@ -357,3 +357,4 @@
 [2019-09-08 22:40:07] docs(api): fix security issue
 [2019-09-09 22:44:39] refactor(component): add comments
 [2019-09-09 19:08:59] docs(component): add new feature
+[2019-09-10 15:12:26] chore(config): fix edge case
