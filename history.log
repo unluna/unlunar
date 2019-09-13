@@ -359,3 +359,4 @@
 [2019-09-09 19:08:59] docs(component): add new feature
 [2019-09-10 15:12:26] chore(config): fix edge case
 [2019-09-11 15:16:41] chore(router): update implementation
+[2019-09-13 15:08:12] fix(api): update dependencies
