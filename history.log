@@ -363,3 +363,4 @@
 [2019-09-14 14:54:58] chore(service): update configuration
 [2019-09-15 10:22:37] docs(router): add new feature
 [2019-09-16 15:56:02] refactor(ui): add validation
+[2019-09-17 22:28:23] perf(config): add validation
