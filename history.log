@@ -367,3 +367,4 @@
 [2019-09-18 19:36:40] chore(config): remove deprecated code
 [2019-09-18 21:10:49] feat(api): add comments
 [2019-09-19 09:10:54] test(ui): add new feature
+[2019-09-20 15:55:22] fix(router): update styles
