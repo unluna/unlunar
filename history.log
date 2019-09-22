@@ -369,3 +369,4 @@
 [2019-09-19 09:10:54] test(ui): add new feature
 [2019-09-20 15:55:22] fix(router): update styles
 [2019-09-21 19:06:39] feat(ui): update implementation
+[2019-09-22 17:54:39] test(utils): improve error handling
