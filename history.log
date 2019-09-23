@@ -371,3 +371,4 @@
 [2019-09-21 19:06:39] feat(ui): update implementation
 [2019-09-22 17:54:39] test(utils): improve error handling
 [2019-09-23 22:18:07] chore(model): refactor code structure
+[2019-09-23 21:01:14] feat(router): update API endpoint
