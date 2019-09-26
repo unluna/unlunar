@@ -374,3 +374,4 @@
 [2019-09-23 21:01:14] feat(router): update API endpoint
 [2019-09-24 17:24:08] docs(model): remove deprecated code
 [2019-09-25 09:44:15] style(api): fix edge case
+[2019-09-26 15:46:43] feat(api): add validation
