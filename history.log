@@ -376,3 +376,4 @@
 [2019-09-25 09:44:15] style(api): fix edge case
 [2019-09-26 15:46:43] feat(api): add validation
 [2019-09-27 16:15:42] perf(ui): update implementation
+[2019-09-27 22:19:24] refactor(config): remove deprecated code
