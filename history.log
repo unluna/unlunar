@@ -380,3 +380,4 @@
 [2019-09-28 21:09:34] fix(api): add validation
 [2019-09-29 14:25:32] refactor(service): update dependencies
 [2019-10-09 11:39:59] feat(utils): remove deprecated code
+[2019-10-10 10:07:57] docs(component): update styles
