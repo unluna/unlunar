@@ -385,3 +385,4 @@
 [2019-10-11 10:53:47] feat(utils): updaet dependencies
 [2019-10-12 22:33:14] fix(utils): improve performance
 [2019-10-14 15:29:54] feat(api): fix typo in documentation
+[2019-10-15 15:13:23] refactor(router): update configuration
