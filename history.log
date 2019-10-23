@@ -394,3 +394,4 @@
 [2019-10-20 16:50:19] docs(core): improve code quality
 [2019-10-21 16:54:33] style(utils): improve performance
 [2019-10-22 10:41:34] perf(api): update dependencies
+[2019-10-23 17:05:10] feat(auth): fix edge case
