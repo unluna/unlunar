@@ -396,3 +396,4 @@
 [2019-10-22 10:41:34] perf(api): update dependencies
 [2019-10-23 17:05:10] feat(auth): fix edge case
 [2019-10-24 22:35:06] style(auth): remove deprecated code
+[2019-10-25 14:25:23] fix(component): update API endpoint
