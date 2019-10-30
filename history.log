@@ -402,3 +402,4 @@
 [2019-10-28 14:34:03] chore(utils): fix typo in documentation
 [2019-10-29 20:53:31] style(core): update implementation
 [2019-10-30 15:50:33] test(auth): add validation
+[2019-10-30 22:25:05] style(auth): add validation
