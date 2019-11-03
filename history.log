@@ -405,3 +405,4 @@
 [2019-10-30 22:25:05] style(auth): add validation
 [2019-11-01 19:45:47] feat(model): optimize algorithm
 [2019-11-02 14:20:47] feat(core): improve performance
+[2019-11-03 17:49:01] refactor(model): improve error handling
