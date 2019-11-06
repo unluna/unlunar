@@ -411,3 +411,4 @@
 [2019-11-04 10:39:06] fix(auth): updte dependencies
 [2019-11-05 11:03:55] chore(auth): add unit tests
 [2019-11-05 15:58:48] style(router): update dependencies
+[2019-11-06 15:14:35] fix(auth): improve error handling
