@@ -414,3 +414,4 @@
 [2019-11-06 15:14:35] fix(auth): improve error handling
 [2019-11-07 22:12:19] chore(api): update configuration
 [2019-11-08 16:38:22] style(ui): fix edge case
+[2019-11-09 11:11:24] feat(core): fix security issue
