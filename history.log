@@ -415,3 +415,4 @@
 [2019-11-07 22:12:19] chore(api): update configuration
 [2019-11-08 16:38:22] style(ui): fix edge case
 [2019-11-09 11:11:24] feat(core): fix security issue
+[2019-11-10 16:03:09] perf(core): add validation
