@@ -421,3 +421,4 @@
 [2019-11-12 10:37:27] test(service): improve code quality
 [2019-11-13 16:47:24] style(api): optimize algorithm
 [2019-11-14 09:48:28] chore(auth): update implementation
+[2019-11-15 21:54:44] refactor(api): fix security issue
