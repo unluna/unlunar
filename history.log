@@ -423,3 +423,4 @@
 [2019-11-14 09:48:28] chore(auth): update implementation
 [2019-11-15 21:54:44] refactor(api): fix security issue
 [2019-11-16 16:22:49] chore(auth): fix bug in logic
+[2019-11-17 15:22:38] feat(core): update configuration
