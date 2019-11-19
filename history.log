@@ -427,3 +427,4 @@
 [2019-11-18 11:05:37] feat(config): add comments
 [2019-11-18 21:16:27] refactor(component): improve error handling
 [2019-11-18 11:23:41] feat(model): update dependencies
+[2019-11-19 15:26:19] feat(core): add validation
