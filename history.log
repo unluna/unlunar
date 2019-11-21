@@ -430,3 +430,4 @@
 [2019-11-19 15:26:19] feat(core): add validation
 [2019-11-19 09:26:19] fix(service): improve error handling
 [2019-11-20 09:27:21] test(auth): update styles
+[2019-11-21 10:44:17] chore(model): remove deprecated code
