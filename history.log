@@ -431,3 +431,4 @@
 [2019-11-19 09:26:19] fix(service): improve error handling
 [2019-11-20 09:27:21] test(auth): update styles
 [2019-11-21 10:44:17] chore(model): remove deprecated code
+[2019-11-22 17:14:21] refactor(model): refactor code structure
