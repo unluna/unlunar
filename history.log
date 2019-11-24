@@ -433,3 +433,4 @@
 [2019-11-21 10:44:17] chore(model): remove deprecated code
 [2019-11-22 17:14:21] refactor(model): refactor code structure
 [2019-11-23 21:25:04] chore(router): improve code quality
+[2019-11-24 21:16:28] docs(utils): fix edge case
