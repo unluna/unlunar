@@ -435,3 +435,4 @@
 [2019-11-23 21:25:04] chore(router): improve code quality
 [2019-11-24 21:16:28] docs(utils): fix edge case
 [2019-11-25 14:34:11] fix(auth): update configuration
+[2019-11-26 11:07:41] test(config): refactor code structure
