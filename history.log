@@ -438,3 +438,4 @@
 [2019-11-26 11:07:41] test(config): refactor code structure
 [2019-11-27 14:44:26] chore(utils): fix memory leak
 [2019-11-28 09:40:05] refactor(api): remove deprecated code
+[2019-11-29 19:01:30] feat(api): optimize algorithm
